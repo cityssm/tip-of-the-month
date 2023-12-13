@@ -1,6 +1,8 @@
-# Tip of the Month - January 2024
+[Home](https://cityssm.github.io/tip-of-the-month/)
 
-## Bringing a Table on the Web into Excel
+# Bringing a Table on the Web into Excel
+
+**Tip of the Month - January 2024**
 
 The following request came across my desk.
 
