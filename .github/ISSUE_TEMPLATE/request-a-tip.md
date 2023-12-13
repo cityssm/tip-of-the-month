@@ -1,6 +1,6 @@
 ---
-name: Request a How To
-about: Have an idea for the next how to? Share it here!
+name: Request a Tip
+about: Have an idea for the next tip? Share it here!
 title: "[NEW] "
 labels: enhancement
 assignees: ''
