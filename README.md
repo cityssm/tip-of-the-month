@@ -1,10 +1,8 @@
-# Tips and Tricks
+# IT Tip of the Month
 
 **Simple computer tips and tricks to make you a computer wizard!**
 
 ![Wizard](wizard.png)
-
-## Tips of the Month
 
 - [January 2024 - Bringing a Table on the Web into Excel](tip-of-the-month/2024/01-jan/web-table-to-excel.md)
 
