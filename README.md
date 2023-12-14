@@ -6,8 +6,9 @@
 
 ## January 2024
 
-- [Bringing a Table on the Web into Excel](2024/01-jan/web-table-to-excel.md)
-- [Keyboard Shortcuts in Windows](2024/01-jan/keyboard-shortcuts.md)
+- 💡 [Bringing a Table on the Web into Excel](2024/01-jan/web-table-to-excel.md)
+- ⌨️ [Keyboard Shortcuts in Windows](2024/01-jan/keyboard-shortcuts.md)
+- 🔗 [DinoPass](https://www.dinopass.com/) - A website that generates easy to remember passwords.
 
 ## More Resources
 
