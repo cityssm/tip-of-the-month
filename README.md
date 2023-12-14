@@ -24,3 +24,9 @@ and solves their problems.
 Rather than just sending then discarding those mini how-tos,
 this project shares them with the hope to empower users with the answers to the questions
 they may think are too silly to ask.
+
+## Have an Idea for a Tip?
+
+Great!
+
+Send in an email, or [create an issue on the issue tracker](https://github.com/cityssm/tip-of-the-month/issues/new/choose).
