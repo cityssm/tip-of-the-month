@@ -11,6 +11,10 @@ The following request came across my desk.
 The short answer is yes (provided it's an actual table and not just something that looks like one).
 It's quite easy to do with a simple "copy-paste".
 
+💡 Note that this tip does not maintain a link to the table on the web page.
+If the table on the web page changes, the spreadsheet will not automatically update to reflect the changes.
+There are ways to maintain a link to the web page, but that was more than what the requestor needed at the time.
+
 ---
 
 To get started, open Excel and open your web browser of choice.
@@ -41,3 +45,7 @@ Once in Excel, you'll likely have some cleaning up to do.
 
 - If the table data includes links, you can remove them by right-clicking them,
   and choosing "Remove Hyperlink".
+
+## More Tips This Month
+
+- [Keyboard Shortcuts in Windows](keyboard-shortcuts.md)

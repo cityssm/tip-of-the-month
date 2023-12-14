@@ -4,7 +4,10 @@
 
 ![Wizard](wizard.png)
 
-- [January 2024 - Bringing a Table on the Web into Excel](2024/01-jan/web-table-to-excel.md)
+## January 2024
+
+- [Bringing a Table on the Web into Excel](2024/01-jan/web-table-to-excel.md)
+- [Keyboard Shortcuts in Windows](2024/01-jan/keyboard-shortcuts.md)
 
 ## More Resources
 
