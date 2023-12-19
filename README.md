@@ -21,7 +21,7 @@
 
 Working in IT, questions come across our desks every day.
 Some of those questions may seem trivial to someone with a bit of savvy in the subject matter,
-but the simple answers can sometimes drastically change how a coworker does their work
+but the simple answers can sometimes drastically change how the person asking does their work
 and solves their problems.
 
 Rather than just sending then discarding those mini how-tos,
