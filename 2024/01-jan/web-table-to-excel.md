@@ -49,3 +49,4 @@ Once in Excel, you'll likely have some cleaning up to do.
 ## More Tips This Month
 
 - [Keyboard Shortcuts in Windows](keyboard-shortcuts.md)
+- [Annual Digital Cleanup](digital-cleanup.md)

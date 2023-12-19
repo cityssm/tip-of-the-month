@@ -40,3 +40,4 @@ These shortcuts work in web browsers, office applications, and throughout Window
 ## More Tips This Month
 
 - [Bringing a Table on the Web into Excel](web-table-to-excel.md)
+- [Annual Digital Cleanup](digital-cleanup.md)
