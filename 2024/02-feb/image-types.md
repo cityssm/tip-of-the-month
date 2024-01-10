@@ -47,6 +47,10 @@ Vector formats use mathematical formulas to generate.
 - May need extra software to open.
 - Not well suited for photographs.
 
+## Choosing the Right Image Type
+
+![Image Type Flowchart](imageFlowchart.png)
+
 ## More Tips This Month
 
 - [The Dangers of Improper Redactions](improper-redactions.md)
