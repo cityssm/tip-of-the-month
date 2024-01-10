@@ -12,7 +12,7 @@
 - ⌨️ [Keyboard Shortcuts in Windows](2024/01-jan/keyboard-shortcuts.md)
 - 🧹 [Annual Digital Cleanup](2024/01-jan/digital-cleanup.md)
 - 🔗 [DinoPass](https://www.dinopass.com/) - A website that generates easy to remember passwords.
-- 🤪 "Yesterday's storm was so cold, my computer froze. It was my own fault through. I had too many windows open."
+- 🤪 "Yesterday's storm was so cold, my computer froze. It was my own fault though. I had too many windows open."
 
 ## More Resources
 
