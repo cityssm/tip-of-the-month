@@ -13,7 +13,8 @@ It's quite easy to do with a simple "copy-paste".
 
 💡 Note that this tip does not maintain a link to the table on the web page.
 If the table on the web page changes, the spreadsheet will not automatically update to reflect the changes.
-There are ways to maintain a link to the web page, but that was more than what the requestor needed at the time.
+There are ways to maintain a link to the web page using Power Query in Excel,
+but that was more than what the requestor needed at the time.
 
 ---
 
