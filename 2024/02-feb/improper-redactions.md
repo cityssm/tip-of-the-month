@@ -35,7 +35,8 @@ Under the File menu, select Import. Browse to your saved PDF file, and open it.
 
 ![Select a Redaction](boxy-select.png)
 
-Select the redaction by clicking on it. Depending on the complexity of the PDF document, selecting the redaction may require some double clicks,
+Select the redaction by clicking on it. Depending on the complexity of the PDF document,
+selecting the redaction may require some double clicks,
 as you narrow your focus and select smaller items within larger groups of items.
 
 ## Step 4: Move the Selection

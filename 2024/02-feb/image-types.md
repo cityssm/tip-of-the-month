@@ -18,7 +18,7 @@ but when it comes to sharing the image with others, one of the options below sho
 | **PNG** ⭐ | Photographs, logos, drawings                                     |                                                          |
 | JPG        | Photographs                                                      | Logos because transparent backgrounds are not supported. |
 | GIF        | Short animations, drawings, things with transparent backgrounds. | Photographs because of colour limitations.               |
-| TIFF       | High-quality, profession grade photographs and scans.            | Sharing, as the file sizes are large.                    |
+| TIFF       | High-quality, professional grade photographs and scans.          | Sharing, as the file sizes are large.                    |
 | BMP        |                                                                  | Dated format, other formats are preferred.               |
 
 ### More Raster Formats
