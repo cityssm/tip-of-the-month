@@ -4,15 +4,12 @@
 
 ![Wizard](wizard.png)
 
-<!---
 ## February 2024
 
 - 🖼️ [Image Types](2024/02-feb/image-types.md)
 - 😱 [The Dangers of Improper Redactions](2024/02-feb/improper-redactions.md)
 - ⬇️ [paint.net](https://getpaint.net/) - A powerful, free photo editor. Windows only!
 - 🔗 [apps.diagrams.net](https://app.diagrams.net/) - An easy-to-use flowchart and diagramming tool, right in your web browser.
-- 🤣 "There are so many scams on the Internet today. If you send me $19.95, I'll tell you how to avoid all of them!"
--->
 
 ## January 2024
 
