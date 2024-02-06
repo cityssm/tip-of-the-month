@@ -9,7 +9,7 @@
 
 - 🗣️ [Read Out Loud in Adobe Acrobat Reader](2024/03-mar/pdf-read-out-loud.md)
 - 📝 [Writing Good Alternative Text](2024/03-mar/alternative-text.md)
-- 🔗 [Improve Accessibility with the Accessibility Checker](https://support.microsoft.com/en-us/office/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f) - Built into Microsoft Office, a tool to check for accessibility issues in your documents.
+- 🔗 [Improve Accessibility with the Accessibility Checker](https://support.microsoft.com/en-us/office/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f) - Built into Microsoft Office, a tool to check for accessibility issues in your documents, spreadsheets, and presentations.
 -->
 
 ## February 2024
