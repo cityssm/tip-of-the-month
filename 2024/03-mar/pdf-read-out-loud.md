@@ -38,7 +38,7 @@ Documents written in a sequential order are far easier to convert into accessibl
 
 ⚠️ **Use text for information wherever possible.**<br />
 It can be tempting to share a poster-like image in a PDF containing all sorts of information.
-Unfortunately, unless the image has descriptive text associated with it,
+Unfortunately, [unless the image has descriptive text associated with it](alternative-text.md),
 all of the information inside of the image will not be announced to the listener.
 
 ⚠️ **Beware of sharing brochures.**<br />
@@ -59,3 +59,7 @@ It's best to fix as many issues as possible in the source document before conver
 ✅ **If your application exports directly to PDF, use that option first!**<br />
 Microsoft Office applications, and others, provide an option to export documents as PDFs.
 This option is preferred over "printing to PDF", as some accessible information can get lost in the print process.
+
+## More Tips This Month
+
+- [Writing Good Alternative Text](alternative-text.md)
