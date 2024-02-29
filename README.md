@@ -4,14 +4,12 @@
 
 ![Wizard](wizard.png)
 
-<!--
 ## March 2024
 
 - 🗣️ [Read Out Loud in Adobe Acrobat Reader](2024/03-mar/pdf-read-out-loud.md)
 - 📝 [Writing Good Alternative Text](2024/03-mar/alternative-text.md)
 - 🔗 [Improve Accessibility with the Accessibility Checker](https://support.microsoft.com/en-us/office/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f) - Built into Microsoft Office, a tool to check for accessibility issues in your documents, spreadsheets, and presentations.
 - 🔗 [Who Can Use](https://www.whocanuse.com/) - Simulates how the foreground and background colour choices in your documents are perceived by readers with different types of colour blindness.
--->
 
 ## February 2024
 
