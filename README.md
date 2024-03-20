@@ -4,6 +4,12 @@
 
 ![Wizard](wizard.png)
 
+<!--
+## April 2024
+
+- 🛑 [Stop Printing and Scanning to Create PDFs](2024/04-apr/stop-printing-and-scanning.md)
+-->
+
 ## March 2024
 
 - 🗣️ [Read Out Loud in Adobe Acrobat Reader](2024/03-mar/pdf-read-out-loud.md)
