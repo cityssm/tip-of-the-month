@@ -8,7 +8,7 @@
 
 - 🛑 [Stop Printing and Scanning to Create PDFs](2024/04-apr/stop-printing-and-scanning.md)
 - 🔗 [FreePDF.net](http://www.freepdf.net/) - A web version of several PDF tools available in the PDFill PDF Tools Windows application.
-- 🔗 [PAVE - PDF Accessibility Validation Engine](https://pave-pdf.org/) - A web application that identifies issues with PDF documents and _helps fix them_!
+- 🔗 [PAVE - PDF Accessibility Validation Engine](https://pave-pdf.org/?lang=en) - A web application that identifies issues with PDF documents and _helps fix them_!
 
 ## March 2024
 
