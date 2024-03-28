@@ -34,9 +34,9 @@ and slow to download when shared online.
 ![Pixelated Text when Zoomed In](scalability.png)
 
 Another problem is scalability. Since the PDF is made up of images, it doesn't zoom well,
-and may include dust artifacts fro mthe scanning process.
+and may include dust artifacts from the scanning process.
 
-Lastly, and most importantly, accessibility takes a huge hit.
+Lastly, and most importantly, accessibility takes a **huge** hit.
 Users that rely on tools like [Acrobat's Read Out Loud](../03-mar/pdf-read-out-loud.md),
 and other assistive technologies cannot easily use them to read the PDF.
 
@@ -72,5 +72,5 @@ and an appendix spreadsheet from Microsoft Excel.
 When combining documents from multiple sources, a tool like
 [PDFill PDF Tools](https://www.pdfill.com/pdf_tools_free.html)
 can be used to combine multiple PDFs into a single PDF.
-Use the application's PDF export features or a PDF printer to generate each PDF,
+Use each application's PDF export features or a PDF printer to generate each PDF,
 then merge them together into one PDF.
