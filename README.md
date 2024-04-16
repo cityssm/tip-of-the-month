@@ -4,6 +4,12 @@
 
 ![Wizard](wizard.png)
 
+<!--
+## May 2024
+
+- 📌 [Pin to Taskbar in Windows 11](2024/05-may/pin-to-taskbar.md)
+-->
+
 ## April 2024
 
 - 🛑 [Stop Printing and Scanning to Create PDFs](2024/04-apr/stop-printing-and-scanning.md)
