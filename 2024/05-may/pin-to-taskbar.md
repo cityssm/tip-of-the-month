@@ -43,4 +43,15 @@ Right-click any empty space in the taskbar. Choose "Taskbar settings".
 
 In the new window under "Taskbar items", look for "Copilot (Preview)".
 Click the switch to change it to "Off".
-While you're here, remove any other unneccessary taskbar items that you don't use.
+Remove any other unneccessary taskbar items that you don't use.
+
+While you're here, browse the other settings to make your taskbar work for you.
+
+- Select the icons that should always be visible in the system tray (on the right next to the clock).
+
+- Set the alignment of the taskbar to the centre (default in Windows 11),
+  or to the left (previous behaviour).
+
+- Adjust how the taskbar works on a multi-screen setup.
+
+- Set when taskbar items for the same application should combine (or not).

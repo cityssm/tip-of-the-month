@@ -4,11 +4,11 @@
 
 ![Wizard](wizard.png)
 
-<!--
 ## May 2024
 
 - 📌 [Pin to Taskbar in Windows 11](2024/05-may/pin-to-taskbar.md)
--->
+- 🔗 [How to Clear Cache for All Major Browsers](https://kinsta.com/knowledgebase/how-to-clear-browser-cache/) - With more and more applications moving to the web browser, many problems experienced after significant application updates can be fixed by simply clearing your browser cache.
+- 🔗 [Clipchamp](https://clipchamp.com/en/) - A free, easy to use video editor for doing simple video edits.
 
 ## April 2024
 
