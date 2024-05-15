@@ -4,6 +4,12 @@
 
 ![Wizard](wizard.png)
 
+<!--
+## June 2024
+
+- 🔗 [PDFs and Screen Readers Demonstration](https://cityssm.github.io/accessibility-demo-2024/) - Materials from last month's PDF - screen reader accessibility demonstrations.
+-->
+
 ## May 2024
 
 - 📌 [Pin to Taskbar in Windows 11](2024/05-may/pin-to-taskbar.md)
