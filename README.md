@@ -4,11 +4,9 @@
 
 ![Wizard](wizard.png)
 
-<!--
 ## June 2024
 
-- 🔗 [PDFs and Screen Readers Demonstration](https://cityssm.github.io/accessibility-demo-2024/) - Materials from last month's PDF - screen reader accessibility demonstrations.
--->
+- 🦻 [PDFs and Screen Readers Accessibility Demo](https://cityssm.github.io/accessibility-demo-2024/) - Materials from May's PDF - screen reader [accessibility demonstrations](https://x.com/SooShoe/status/1795861557856944370). Includes examples, instructions on how to use them, and instructions on how to fix them!
 
 ## May 2024
 
