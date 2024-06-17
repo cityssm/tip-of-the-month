@@ -42,11 +42,11 @@ it is important to update your online services when your email address changes.
 Not only is it important to the account recovery process,
 but it's also sometimes used for two-factor authentication.
 
-**If the online service additional recovery options, use them.**<br />
+**If the online service offers additional recovery options, use them.**<br />
 Maybe they offer a series of security questions.
 Maybe they accept a phone number, or a secondary email address.
 Whatever the choices are, take advantage of them.
 
 **If the online service is being used for business purposes, use a business email address.**<br />
 This will make it far easier for your IT department to assist with account recoveries
-if need be, especially if, for example, the recovery involves an email address which no longer exists.
+if need be, especially if, for example, the recovery involves an email address which no longer exists due to a name change or a staffing change.
