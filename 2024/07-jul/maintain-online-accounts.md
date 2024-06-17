@@ -4,6 +4,8 @@
 
 **Tip of the Month - July 2024**
 
+![Facebook Login Screen](./facebook-login.jpg)
+
 Last month, I was asked to help a neighbour set up a new computer.
 Unfortunately, their older one quit working entirely.
 Thankfully, the older machine was used mostly for browsing Facebook and checking emails,
