@@ -4,6 +4,12 @@
 
 ![Wizard](wizard.png)
 
+<!--
+## July 2024
+
+- 🔑 [Maintain Access to Your Online Accounts](2024/07-jul/maintain-online-accounts.md) - Don't let a computer crash prevent you from accessing your online accounts.
+-->
+
 ## June 2024
 
 - 🦻 [PDFs and Screen Readers Accessibility Demo](https://cityssm.github.io/accessibility-demo-2024/) - Materials from May's PDF - screen reader [accessibility demonstrations](https://x.com/SooShoe/status/1795861557856944370). Includes examples, instructions on how to use them, and instructions on how to fix them!
