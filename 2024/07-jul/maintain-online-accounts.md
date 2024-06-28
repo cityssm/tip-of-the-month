@@ -18,9 +18,10 @@ Onward to password recovery. Onward to a huge roadblock. 🚧
 
 When originally setting up Facebook, the person used an email address offered through their
 Internet Service Provider (ISP) at the time. Fast forward to today. They have a different
-ISP, and no access to that email address.
+ISP, and no access to that email address anymore.
 
-We've sent an email to Facebook support for assistance, but I'm not holding my breath.
+We've sent an email to Facebook support for assistance,
+but [I'm not holding my breath](https://www.engadget.com/how-small-claims-court-became-metas-customer-service-hotline-160224479.html).
 
 ## Don't Let it Happen to You!
 
@@ -33,7 +34,7 @@ and keep the records backed up.
 **Consider using email services NOT from your Internet Service Provider (ISP).**<br />
 It's hard to change your email address, especially if you need to update it with a significant
 number of contacts and services.
-Don't get locked into your ISP just because of your email address.
+Don't get locked into a bad deal with your ISP just because of your email address.
 There are lots of free options out there,
 like [Gmail](https://mail.google.com/)
 or [Outlook.com](https://outlook.live.com/mail/about/index_en.html) (formerly Hotmail).
