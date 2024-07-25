@@ -4,10 +4,12 @@
 
 **Tip of the Month - August 2024**
 
+![Aliens Abducting Data from Servers](alienServerFarm.jpg)
+
 **Like it or not, technology fails,**
 and those points of failure only increase in "the cloud".
 
-Look at the recent highly visible outages when
+Look at the recent highly visible outages that occurred when
 [security software vendor Cloudstrike pushed a bad update](https://www.theguardian.com/australia-news/article/2024/jul/19/microsoft-windows-pcs-outage-blue-screen-of-death)
 to their software, knocking out millions of computers worldwide.
 
@@ -33,7 +35,7 @@ related to the records while the application is unavailable.
 By having blank forms available, you ensure you can still capture the information you need
 for later data entry.
 
-## ☎️ Keep Track of Contact Details for Application Support
+## ☎️ Keep a Record of Contact Details for Application Support
 
 If you always reach out to application support by clicking a link in the application itself,
 that won't do much good if the application is unavailable.
@@ -46,7 +48,7 @@ considering some of the tips in this month's other tip about
 
 ## 📖 Know Alternative Applications that Can Do the Job if Any
 
-If the application stores records, it may not be possible,
+If the application stores records, it may not be possible to make an easy switch,
 but if the application just performs a process, can another application perform the process?
 If the application edits images, familiarize yourself with another image editor.
 If the application manipulates PDFs, research another PDF authoring service.
