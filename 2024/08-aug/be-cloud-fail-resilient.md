@@ -54,7 +54,10 @@ but if the application just performs a process, can another application perform 
 
 If the application edits images, familiarize yourself with another image editor.
 If the application manipulates PDFs, research another PDF authoring service.
+
 Try to do your research before you're under the pressure from an outage.
+[AlternativeTo](https://alternativeto.net) is a great website for doing that research.
+
 Remember that the backup solutions don't need to be your preferred solutions.
 They are there to ensure you can continue working while you wait for your preferred one.
 
