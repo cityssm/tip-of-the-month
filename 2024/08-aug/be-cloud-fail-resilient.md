@@ -12,6 +12,7 @@ and those points of failure only increase in "the cloud".
 Look at the recent highly visible outages that occurred when
 [security software vendor Cloudstrike pushed a bad update](https://www.theguardian.com/australia-news/article/2024/jul/19/microsoft-windows-pcs-outage-blue-screen-of-death)
 to their software, knocking out millions of computers worldwide.
+We were mostly unaffected, but [our hospital was less fortunate](https://www.sootoday.com/following-up/sault-area-hospital-computer-systems-down-after-global-technology-outage-9241821).
 
 Have you ever logged into a web application only to find that it's been significantly updated overnight
 without your knowledge, and it's now broken,
@@ -39,17 +40,18 @@ for later data entry.
 
 If you always reach out to application support by clicking a link in the application itself,
 that won't do much good if the application is unavailable.
-Considering keeping the link to the support website as a bookmark in your web browser,
+Consider keeping the link to the support website as a bookmark in your web browser,
 and a support number and email as a contact in your address book.
 
 If you are reaching out for help by email,
 considering some of the tips in this month's other tip about
 [writing good helpdesk tickets](writing-good-tickets.md).
 
-## 📖 Know Alternative Applications that Can Do the Job if Any
+## 📖 Know Alternative Applications that Can Do the Job (if Any)
 
 If the application stores records, it may not be possible to make an easy switch,
 but if the application just performs a process, can another application perform the process?
+
 If the application edits images, familiarize yourself with another image editor.
 If the application manipulates PDFs, research another PDF authoring service.
 Try to do your research before you're under the pressure from an outage.
