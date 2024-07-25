@@ -102,3 +102,7 @@ but if a cell phone is the best point of contact, be sure to include the number.
 - If the issue has resolved itself, update the ticket to let IT staff know the ticket can be closed.
   They may still want to look into why the issue occurred in the first place,
   but they can prioritze that research time accordingly.
+
+## More Tips This Month
+
+- [Be "Cloud Fail" Resilient](be-cloud-fail-resilient.md)
