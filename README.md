@@ -4,10 +4,12 @@
 
 ![Wizard](wizard.png)
 
+<!--
 ## August 2024
 
 - 🆘 [Writing Good Helpdesk Tickets](2024/08-aug/writing-good-tickets.md) - Get the right help faster from IT by starting interactions with a good ticket.
 - 🌩️ [Be "Cloud Fail" Resilient](2024/08-aug/be-cloud-fail-resilient.md) - Don't let an application outage result in a full department outage!
+-->
 
 ## July 2024
 
