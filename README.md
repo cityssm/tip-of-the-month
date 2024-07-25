@@ -4,10 +4,16 @@
 
 ![Wizard](wizard.png)
 
+<!--
+## August 2024
+
+- 🆘 [Writing Good Helpdesk Tickets](2024/08-aug/writing-good-tickets.md) - Get the right help faster from IT by starting interactions with a good ticket.
+-->
+
 ## July 2024
 
 - 🔑 [Maintain Access to Your Online Accounts](2024/07-jul/maintain-online-accounts.md) - Don't let a computer crash prevent you from accessing your online accounts.
-- 🔗 [Create and add an email signature in Outlook](https://support.microsoft.com/en-us/office/create-and-add-an-email-signature-in-outlook-8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2#PickTab=Classic_Outlook) -  Includes instructions for New Outlook, Classic Outlook, and Outlook on the web.
+- 🔗 [Create and add an email signature in Outlook](https://support.microsoft.com/en-us/office/create-and-add-an-email-signature-in-outlook-8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2#PickTab=Classic_Outlook) - Includes instructions for New Outlook, Classic Outlook, and Outlook on the web.
 
 ## June 2024
 
