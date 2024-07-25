@@ -1,3 +1,7 @@
+---
+title: Be "Cloud Fail" Resilient
+---
+
 [Home](https://cityssm.github.io/tip-of-the-month/)
 
 # Be "Cloud Fail" Resilient
