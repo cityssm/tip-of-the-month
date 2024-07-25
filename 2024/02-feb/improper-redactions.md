@@ -1,3 +1,7 @@
+---
+title: The Dangers of Improper Redactions
+---
+
 [Home](https://cityssm.github.io/tip-of-the-month/)
 
 # The Dangers of Improper Redactions

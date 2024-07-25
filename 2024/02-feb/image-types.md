@@ -1,3 +1,7 @@
+---
+title: Image Types
+---
+
 [Home](https://cityssm.github.io/tip-of-the-month/)
 
 # Image Types

@@ -1,3 +1,7 @@
+---
+title: Pin to Taskbar in Windows 11
+---
+
 [Home](https://cityssm.github.io/tip-of-the-month/)
 
 # Pin to Taskbar in Windows 11

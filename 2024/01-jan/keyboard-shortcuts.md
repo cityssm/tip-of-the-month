@@ -1,3 +1,7 @@
+---
+title: Keyboard Shortcuts in Windows
+---
+
 [Home](https://cityssm.github.io/tip-of-the-month/)
 
 # Keyboard Shortcuts in Windows

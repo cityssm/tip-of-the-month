@@ -1,3 +1,7 @@
+---
+title: Read Out Loud in Adobe Acrobat Reader
+---
+
 [Home](https://cityssm.github.io/tip-of-the-month/)
 
 # Read Out Loud in Adobe Acrobat Reader

@@ -1,3 +1,7 @@
+---
+title: Annual Digital Cleanup
+---
+
 [Home](https://cityssm.github.io/tip-of-the-month/)
 
 # Annual Digital Cleanup

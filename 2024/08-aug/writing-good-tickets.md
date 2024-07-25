@@ -1,3 +1,7 @@
+---
+title: Writing Good Helpdesk Tickets
+---
+
 [Home](https://cityssm.github.io/tip-of-the-month/)
 
 # Writing Good Helpdesk Tickets

@@ -1,3 +1,7 @@
+---
+title: Stop Printing and Scanning to Create PDFs
+---
+
 [Home](https://cityssm.github.io/tip-of-the-month/)
 
 # Stop Printing and Scanning to Create PDFs

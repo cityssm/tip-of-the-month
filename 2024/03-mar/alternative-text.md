@@ -1,3 +1,7 @@
+---
+title: Writing Good Alternative Text
+---
+
 [Home](https://cityssm.github.io/tip-of-the-month/)
 
 # Writing Good Alternative Text
