@@ -40,6 +40,13 @@ related to the records while the application is unavailable.
 By having blank forms available, you ensure you can still capture the information you need
 for later data entry.
 
+## 📧 Sync Important Details with your Email Application
+
+If the application tracks important meeting dates, sync them with your email calendar.
+If the application offers email reminders, notifications, and receipts, consider using them.
+This way, if the application becomes unavailable, you will still have key details,
+and you won't miss any important deadlines.
+
 ## ☎️ Keep a Record of Contact Details for Application Support
 
 If you always reach out to application support by clicking a link in the application itself,
