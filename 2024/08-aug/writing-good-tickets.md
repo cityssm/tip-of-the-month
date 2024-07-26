@@ -49,22 +49,23 @@ You don't need to be lengthly, but try to answer the following questions.
 
 **What were you expecting to happen?**
 
-- Providing a short description of what "success" should look like allows IT staff working on the issue
-  to know when the issue is fixed.
+- Provide a short description of what "success" should look.
+  This allows IT staff working on the issue to know when the issue is fixed.
 
 **Is anyone else in your area having the same issue?**
 
 - If other users are experiencing the same issue, the problem is likely related to the application.
-- If you are the only one experiencing the issue, the problem is likely related to your configuration.
+- If you are the only one experiencing the issue, the problem is likely related to 
+  your individual configuration.
 
 **Has this issue happened before?**
 
 - If so, when abouts? IT staff can look over the previous tickets related to your issue for previously
-  successful solutions.
+  successful solutions. This is especially helpful when a different technician has been assigned to your issue.
 
 ## Whenever Possible, Include Screenshots
 
-![Error Message](errorMessage.png)
+![SQL Server Error Message](errorMessage.png)
 
 Does something look weird? Did an error message appear on your screen?
 Use the <kbd>Print Screen</kbd> button on your keyboard to copy an image of what is currently
@@ -83,9 +84,14 @@ cropping out the web browser window will likely result in the followup question,
 
 Make sure to provide your full name, area you work in, and how to best contact you.
 A lot of those details may already be included in your email signature,
-but if a cell phone is the best point of contact, be sure to include the number.
+but if a cell phone is the best point of contact, be sure to include that number.
 
 ## I've sent in my ticket. Now what?
+
+![Happy Helpdesk Technician](happyTechnician2.jpg)
+
+Your ticket is now in the hands of the IT staff,
+but your responsibility doesn't end there.
 
 **Be available for followup questions.**
 
