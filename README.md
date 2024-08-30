@@ -4,6 +4,14 @@
 
 ![Wizard](wizard.png)
 
+## September 2024
+
+- 🐝 [Bee Cyber Safe!](https://cityssm.github.io/national-bee-day/puns.html) - A collection of bee-related puns about cyber security from the IT department's award winning door.
+  (If you'd prefer something less "educational", you could [search for the queen bee](https://cityssm.github.io/national-bee-day/) instead.)
+- ⌨️ Can't find some keywords on a large webpage?
+  In your web browser, press <kbd>Ctrl</kbd> + <kbd>F</kbd> on your keyboard to search within the page.
+- 🔗 [Pixabay](https://pixabay.com/) - Millions of high quality, royalty free images that can be used in your promotion materials for free without restrictions.
+
 ## August 2024
 
 - 🆘 [Writing Good Helpdesk Tickets](2024/08-aug/writing-good-tickets.md) - Get the right help faster from IT by starting interactions with a good ticket.
