@@ -7,6 +7,7 @@
 ## September 2024
 
 - 🐝 [Bee Cyber Safe!](https://cityssm.github.io/national-bee-day/puns.html) - A collection of bee-related puns about cyber security from the IT department's award winning door.
+  For the faster readers, click the pun to move to the next one quicker.
   (If you'd prefer something less "educational", you could [search for the queen bee](https://cityssm.github.io/national-bee-day/) instead.)
 - ⌨️ Can't find some keywords on a large webpage?
   In your web browser, press <kbd>Ctrl</kbd> + <kbd>F</kbd> on your keyboard to search within the page.
