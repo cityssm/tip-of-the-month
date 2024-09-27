@@ -8,7 +8,7 @@
 
 - 🔗 [Use mail merge for bulk email, letters, labels, and envelopes](https://support.microsoft.com/en-us/office/use-mail-merge-for-bulk-email-letters-labels-and-envelopes-f488ed5b-b849-4c11-9cff-932c49474705) - Instructions on how to personalize Word documents and Outlook emails using a template and a contact list.
 - 🔗 [Microsoft To Do](https://to-do.office.com) - Built into Microsoft's 365 environment, simple to do lists. Useful for simple task lists. Shareable with others to manage projects together. Available through your browser, or via an app.
-- 📖 [Open by design: How open source can drive sustainable urban development](https://www.undp.org/publications/open-design-how-open-source-can-drive-sustainable-urban-development) - If you're not familiar with the concept of open source software and how cities can benefit from it, the United Nations Development Programme has a great primer for you. The City of Sault Ste. Marie is highlighted on page 48. 🎉
+- 📖 [Open by design: How open source can drive sustainable urban development](https://www.undp.org/publications/open-design-how-open-source-can-drive-sustainable-urban-development) - If you're not familiar with the concept of open-source software and how cities can benefit from it, the United Nations Development Programme has a great primer for you. The City of Sault Ste. Marie is highlighted on page 48. 🎉
 
 ## September 2024
 
