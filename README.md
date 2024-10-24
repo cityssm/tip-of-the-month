@@ -4,6 +4,29 @@
 
 ![Wizard](wizard.png)
 
+<!--
+## November 2024
+
+Have a second look at some of those applications on your computer you haven't looked at recently.
+
+- 🔗 [**Introducing OneNote**](https://support.microsoft.com/en-us/office/introducing-onenote-38be036d-5b5a-49ad-83be-292fe53ad7b3)
+  - OneNote has been included alongside Word and Excel in Office for years now, but what does it do?
+    Find out more about this note-taking application, and if it would help you organize your thoughts.
+- 🎨 **Have you looked at Paint lately?**
+  - If you're running Windows 11, and haven't looked at Paint, Window's built-in picture editor, for a while, it's really changed.
+    There's layers. There's quick shapes. There's even AI image creation.
+    One feature I find really interesting is it's ability to quickly remove backgrounds.
+- 🧮 **Have you looked at Calculator lately?**
+  - The Calculator built into Windows 11 does more than just add and subtract.
+    It now has a "Date calculation" mode to calculate the difference between two dates.
+    It can do graphing.
+    It has convertors for volume, weight, temperature, and others.
+    It even has real-time currency conversions using current rates.
+
+- 🤣 "I fired up my old Windows 95 machine the other day and tried to use Microsoft Word.
+  By the time the program finally loaded, I had already written the entire report out by hand and mailed it to my boss!"
+-->
+
 ## October 2024
 
 - 🔗 [**Use mail merge for bulk email, letters, labels, and envelopes**](https://support.microsoft.com/en-us/office/use-mail-merge-for-bulk-email-letters-labels-and-envelopes-f488ed5b-b849-4c11-9cff-932c49474705)
