@@ -4,28 +4,32 @@
 
 ![Wizard](wizard.png)
 
-<!--
 ## November 2024
 
 Have a second look at some of those applications on your computer you haven't looked at recently.
 
 - 🔗 [**Introducing OneNote**](https://support.microsoft.com/en-us/office/introducing-onenote-38be036d-5b5a-49ad-83be-292fe53ad7b3)
   - OneNote has been included alongside Word and Excel in Office for years now, but what does it do?
-    Find out more about this note-taking application, and if it would help you organize your thoughts.
+    Find out more about this note-taking application, and if it would help you organize
+    your research, meeting notes, or your next big project.
 - 🎨 **Have you looked at Paint lately?**
-  - If you're running Windows 11, and haven't looked at Paint, Window's built-in picture editor, for a while, it's really changed.
+  - If you're running Windows 11 and haven't looked at Paint, Window's built-in picture editor, for a while, it's really changed.
     There's layers. There's quick shapes. There's even AI image creation.
-    One feature I find really interesting is it's ability to quickly remove backgrounds.
+    One new feature that's quite interesting is it's ability to quickly remove backgrounds from photographs.
 - 🧮 **Have you looked at Calculator lately?**
   - The Calculator built into Windows 11 does more than just add and subtract.
     It now has a "Date calculation" mode to calculate the difference between two dates.
     It can do graphing.
-    It has convertors for volume, weight, temperature, and others.
+    It has convertors for volume, weight, temperature, and more.
     It even has real-time currency conversions using current rates.
-
-- 🤣 "I fired up my old Windows 95 machine the other day and tried to use Microsoft Word.
-  By the time the program finally loaded, I had already written the entire report out by hand and mailed it to my boss!"
--->
+- ✒️ **Have you had a look at your Outlook signature lately?**
+  - Formatting and accessibility options for email signatures have changed over time.
+    Does your email signature follow the current corporate guidelines?
+    Do included images, like corporate logos and social media logos
+    [include alternative text](2024/03-mar/alternative-text.md)
+    for assistive technologies?
+- 🤣 **I fired up my old Windows 95 machine the other day and tried to use Microsoft Word.**
+  - By the time the program finally loaded, I had already written the entire report out by hand and mailed it to my boss!"
 
 ## October 2024
 
@@ -113,7 +117,8 @@ Have a second look at some of those applications on your computer you haven't lo
 - 🧹 [**Annual Digital Cleanup**](2024/01-jan/digital-cleanup.md)
 - 🔗 [**DinoPass**](https://www.dinopass.com/)
   - A website that generates easy to remember passwords.
-- 🤪 "Yesterday's storm was so cold, my computer froze. It was my own fault though. I had too many windows open."
+- 🤪 **Yesterday's storm was so cold, my computer froze.**
+  - It was my own fault though. I had too many windows open.
 
 ## More Resources
 
@@ -134,4 +139,5 @@ they may think are too silly to ask.
 
 Great!
 
-Send in an email, or [create an issue on the issue tracker](https://github.com/cityssm/tip-of-the-month/issues/new/choose).
+Send in an email,
+or [create an issue on the issue tracker](https://github.com/cityssm/tip-of-the-month/issues/new/choose).
