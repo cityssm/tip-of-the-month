@@ -29,7 +29,7 @@ Have a second look at some of those applications on your computer you haven't lo
     [include alternative text](2024/03-mar/alternative-text.md)
     for assistive technologies?
 - 🤣 **I fired up my old Windows 95 machine the other day and tried to use Microsoft Word.**
-  - By the time the program finally loaded, I had already written the entire report out by hand and mailed it to my boss!"
+  - By the time the program finally loaded, I had already written the entire report out by hand and mailed it to my boss!
 
 ## October 2024
 
