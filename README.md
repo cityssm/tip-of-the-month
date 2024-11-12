@@ -39,6 +39,7 @@ Have a second look at some of those applications on your computer you haven't lo
   - Built into Microsoft's 365 environment, simple to do lists.
     Useful for simple task lists. Shareable with others to manage projects together.
     Available through your browser, or via an app.
+  - Kevin Stratvert has a [great video to help you get started with Microsoft To Do](https://www.youtube.com/watch?v=MCc56WuQMjk).
 - 📖 [**Open by design: How open source can drive sustainable urban development**](https://www.undp.org/publications/open-design-how-open-source-can-drive-sustainable-urban-development)
   - If you're not familiar with the concept of open-source software and how cities can benefit from it,
     the United Nations Development Programme has a great primer for you.
