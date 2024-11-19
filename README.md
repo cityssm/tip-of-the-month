@@ -4,6 +4,14 @@
 
 ![Wizard](wizard.png)
 
+<!--
+## December 2024
+
+- 📲 [**Increase Your Service Level with QR Codes**](2024/12-dec/qr-codes.md)
+  - Adding QR Codes to your brochures and signage is an easy way to
+    increase your service level at no cost.
+-->
+
 ## November 2024
 
 Have a second look at some of those applications on your computer you haven't looked at recently.
