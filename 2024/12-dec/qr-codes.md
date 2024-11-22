@@ -8,7 +8,7 @@ title: Increase Your Service Level with QR Codes
 
 **Tip of the Month - December 2024**
 
-![Sault Ste. Marie Contact Us QR Code](saultstemarieContactUs.png)
+![Budget 2025 Sign](budgetInput.jpg)
 
 You've probably seen square-shaped barcodes like the one above.
 It's a [QR Code (or Quick-Response Code)](https://en.wikipedia.org/wiki/QR_code),
@@ -32,17 +32,11 @@ Offering a quick way to get to those downloads can easily reduce the frustration
 
 ### Scan Here to Sign Up
 
-Anywhere there is a flyer or sign encouraging users to go to a website to sign up,
+![Active 55 Brochure](active55.png)
+
+Anywhere there is a flyer or sign encouraging users to go to a website to sign up or participate in a process online,
 a QR Code could be added to reduce the need for users to type out a potentially long, punctuation-filled
 website address.
-
-### Increase Accessibility and Offer Translations
-
-Have a sign or plaque that's only in English?
-A QR Code could be placed next to the sign, linking to a webpage containing all of the information from the sign.
-Once that information is on the user's smartphone, the user could use their translation app
-to get the sign's text in their preferred language.
-They could also use their phone's text-to-voice features to have the sign read to them.
 
 ### Meeting Resources
 
@@ -51,6 +45,14 @@ They could also use their phone's text-to-voice features to have the sign read t
 Have you ever been to a public meeting, and wanted a copy of the agenda?
 A QR Code could be posted at the door of meeting, linking to a webpage containing the agenda document,
 and other supporting materials.
+
+### Increase Accessibility and Offer Translations
+
+Have a sign or plaque that's only in English?
+A QR Code could be placed next to the sign, linking to a webpage containing all of the information from the sign.
+Once that information is on the user's smartphone, the user could use their translation app
+to get the sign's text in their preferred language.
+They could also use their phone's text-to-voice features to have the sign read to them.
 
 ### More Ideas
 
