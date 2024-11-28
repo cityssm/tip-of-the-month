@@ -4,13 +4,19 @@
 
 ![Wizard](wizard.png)
 
-<!--
 ## December 2024
+
+Made it through a year of tips! 🥳
 
 - 📲 [**Increase Your Service Level with QR Codes**](2024/12-dec/qr-codes.md)
   - Adding QR Codes to your brochures and signage is an easy way to
     increase your service level at no cost.
--->
+- 🔗 [**WunderMap**](https://www.wunderground.com/wundermap)
+  - A weather map that includes data from official sources like Environment Canada,
+    alongside data from local hobbyists, because maybe the weather at Jim's house
+    is closer for you than the weather at the airport.
+- 🎅 **Why did Santa's computer get a virus?**
+  - Because he kept clicking on the naughty list!
 
 ## November 2024
 

@@ -27,7 +27,7 @@ and tap on it.
 ![Empty Tax Brochure Stand](taxBrochures.png)
 
 Have you ever visited a stand of flyers or brochures, only to find the one you want is not available?
-Oftentimes, those same brochures are available to download from the website, if you know where to look.
+Oftentimes, those same brochures are available to download from a website, if you know where to look.
 Offering a quick way to get to those downloads can easily reduce the frustration of an empty stand.
 
 ### Scan Here to Sign Up
