@@ -4,6 +4,14 @@
 
 ![Wizard](wizard.png)
 
+<!--
+## January 2025
+
+- 🎥 [**Using Backgrounds in your Online Meetings**](2025/01-jan/meeting-backgrounds.md)
+  - When you turn on the camera, it's about seeing you,
+    but your background can sometimes distract from that.
+-->
+
 ## December 2024
 
 Made it through a year of tips! 🥳
