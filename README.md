@@ -23,6 +23,8 @@ Made it through a year of tips! 🥳
   - A weather map that includes data from official sources like Environment Canada,
     alongside data from local hobbyists, because maybe the weather at Jim's house
     is closer for you than the weather at the airport.
+  - Looking for a similar tool to help plan your next trip out on the water?
+    Check out [Windy.com](https://www.windy.com). (Thanks *R.M.* for the recommendation!)
 - 🎅 **Why did Santa's computer get a virus?**
   - Because he kept clicking on the naughty list!
 
