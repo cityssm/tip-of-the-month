@@ -10,6 +10,8 @@
 - 🎥 [**Using Backgrounds in your Online Meetings**](2025/01-jan/meeting-backgrounds.md)
   - When you turn on the camera, it's about seeing you,
     but your background can sometimes distract from that.
+- ⏰ [**Where does the day go?**](https://neal.fun/where-does-the-day-go/)
+  - An interesting, interactive visual of where the supposed 24 hours goes each day.
 -->
 
 ## December 2024
