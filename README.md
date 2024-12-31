@@ -11,6 +11,8 @@
     but your background can sometimes distract from that.
 - ⏰ [**Where does the day go?**](https://neal.fun/where-does-the-day-go/)
   - An interesting, interactive visual of where the supposed 24 hours goes each day.
+- 🥳 **Why did the computer go to the New Years party?**
+  - To improve its social network!
 
 ## December 2024
 
