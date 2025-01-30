@@ -4,6 +4,19 @@
 
 ![Wizard](wizard.png)
 
+## February 2025
+
+- 🖨️ [**The Value of Print Preview**](2025/02-feb/print-preview.md)
+  - If you have to print something, print previews can help you get it right the first time.
+- 🔗 [**Apolitical**](https://apolitical.co/home/)
+  - Mostly free articles, courses, and webinars gear toward people working in government roles.
+  - Since these are IT tips, consider checking out the course from Google titled
+    [Understand How AI Impacts You and Your Government](https://apolitical.co/microcourses/en/understand-how-ai-impacts-you-and-your-government/).
+- 💌 **Roses are red. Violets are blue.**
+  - But if you're low on toner, they'll be a different hue.
+  - With a full ink cartridge, your colours will pop,
+  - And your Valentines printouts will be the absolute top!
+
 ## January 2025
 
 - 🎥 [**Using Backgrounds in your Online Meetings**](2025/01-jan/meeting-backgrounds.md)
