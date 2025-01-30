@@ -9,7 +9,7 @@
 - 🖨️ [**The Value of Print Preview**](2025/02-feb/print-preview.md)
   - If you have to print something, print previews can help you reduce waste and get it right the first time.
 - 🔗 [**Apolitical**](https://apolitical.co/home/)
-  - Mostly free articles, courses, and webinars gear toward people working in government roles.
+  - Mostly free articles, courses, and webinars geared toward people working in government roles.
   - Since these are IT tips, consider checking out the course from Google titled
     [Understand How AI Impacts You and Your Government](https://apolitical.co/microcourses/en/understand-how-ai-impacts-you-and-your-government/).
 - 💌 **Roses are red. Violets are blue.**
