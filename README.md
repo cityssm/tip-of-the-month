@@ -4,6 +4,14 @@
 
 ![Wizard](wizard.png)
 
+<!--
+## March 2025
+
+- 🗣️ [**Meeting Room PC Checks**](2025/03-mar/meetingRooms.md)
+  - Don't let the preventable issues with meeting room PCs
+    be the reason for meeting disruptions.
+-->
+
 ## February 2025
 
 - 🖨️ [**The Value of Print Preview**](2025/02-feb/print-preview.md)
@@ -39,7 +47,7 @@ Made it through a year of tips! 🥳
     alongside data from local hobbyists, because maybe the weather at Jim's house
     is closer for you than the weather at the airport.
   - Looking for a similar tool to help plan your next trip out on the water?
-    Check out [Windy.com](https://www.windy.com). (Thanks *R.M.* for the recommendation!)
+    Check out [Windy.com](https://www.windy.com). (Thanks _R.M._ for the recommendation!)
 - 🎅 **Why did Santa's computer get a virus?**
   - Because he kept clicking on the naughty list!
 
