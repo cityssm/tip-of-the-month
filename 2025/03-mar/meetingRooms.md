@@ -16,11 +16,12 @@ here are some tips to make sure that part of the meeting goes smoothly.
 
 ## Before the Meeting
 
-**Arrive at least 10 minutes before the meeting to make sure the computer is working properly.**
+**Allow for at least 10 minutes before the meeting to make sure the computer is working properly.**
 
 - Check that the computer turns on.
 - Check that a picture appears on the screen.
 - Check that the cordless keyboard and mouse are there **and** charged.
+- Check that any applications you may need are available and working.
 
 **Remove any USB drives that may have been forgotten from previous meetings.**
 
@@ -51,7 +52,7 @@ positioned nearer to the computer.
 ![Browser History](./searchHistory.png)
 
 This will prevent the browser history associated with your meeting from being saved on the computer
-and available to the next user.
+and becoming available to the next user.
 
 **Never save passwords. Never "Remember Me".**
 

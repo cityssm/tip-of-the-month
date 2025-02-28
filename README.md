@@ -4,13 +4,13 @@
 
 ![Wizard](wizard.png)
 
-<!--
 ## March 2025
 
 - 🗣️ [**Meeting Room PC Checks**](2025/03-mar/meetingRooms.md)
   - Don't let the preventable issues with meeting room PCs
     be the reason for meeting disruptions.
--->
+- 🤣 **What do you call an unfocused or unnecessary presentation?**
+  - Power Pointless!
 
 ## February 2025
 
