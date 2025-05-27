@@ -4,6 +4,15 @@
 
 ![Wizard](wizard.png)
 
+<!--
+## June 2025
+
+- ⌨️ [**National AccessAbility Week Demo - Browsing Websites Using a Keyboard**](2025/06-jun/browsing-websites-using-a-keyboard.md)
+  - Can you browse these websites for the information you need using only your keyboard?
+- 😡 **Why was the keyboard feeling cranky?**
+  - Because everyone kept pushing their buttons.
+-->
+
 ## March 2025
 
 - 🗣️ [**Meeting Room PC Checks**](2025/03-mar/meetingRooms.md)
