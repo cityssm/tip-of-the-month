@@ -86,7 +86,7 @@ _Did you experience any of these issues during your tests?_
 
 - Expandable menus might not have a keyboard-friendly way to access them.
 
-## Inability to Skip Sections
+### Inability to Skip Sections
 
 - Heavy navigation at the top of pages can become tedious for users looking to get to the page content.
 - Proper use of headings can help offer reference points in content that (more advanced) keyboard users can jump between.
