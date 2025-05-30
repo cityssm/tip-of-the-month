@@ -31,7 +31,7 @@ Start on the City of Sault Ste. Marie home page.
 
 <https://saultstemarie.ca/>
 
-❓ When are the council meetings in June 2025?
+❓ **When are the council meetings in June 2025?**
 
 ## Test Two – Saturday Hours
 
@@ -41,7 +41,7 @@ Start on the Library's home page.
 
 <https://ssmpl.ca/>
 
-❓ What are the current Saturday hours for the Library’s North Branch?
+❓ **What are the current Saturday hours for the Library's North Branch?**
 
 ## Test Three – Job Search
 
@@ -51,7 +51,7 @@ Start on the Welcome to SSM home page.
 
 <https://welcometossm.com/>
 
-❓ Which local pharmacy currently has a posting for a Registered Pharmacy Technician?
+❓ **Which local pharmacy currently has a posting for a Registered Pharmacy Technician?**
 
 ## Why is Keyboard Accessibility Important?
 
@@ -64,6 +64,9 @@ Users can rely on keyboards (or other similarly working assistive technologies) 
 - **Permanent** – Blindness, tremors, paralysis, amputations.
 - **Temporary** – Arm injury.
 - **Situational** – Holding a baby.
+
+Also, the same principle used for keyboard browsing is used in other assistive technologies,
+like head switches, foot pedals, and [sip-and-puff devices](https://en.wikipedia.org/wiki/Sip-and-puff).
 
 ## Common Issues when Browsing with the Keyboard
 
