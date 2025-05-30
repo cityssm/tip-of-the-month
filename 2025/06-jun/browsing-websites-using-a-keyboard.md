@@ -23,17 +23,7 @@ There are more shortcuts available, however for the tests below, these shortcuts
 | <kbd>Enter</kbd>                           | Activate the current focus area. |
 | <kbd>Up Arrow</kbd>, <kbd>Down Arrow</kbd> | Scroll the page up and down.     |
 
-## Test One – Job Search
-
-![Final Welcome to SSM Screenshot](./welcomeToSsm.png)
-
-Start on the Welcome to SSM home page.
-
-<https://welcometossm.com/>
-
-❓ Which local pharmacy currently has a posting for a Registered Pharmacy Technician?
-
-## Test Two – Council Meetings
+## Test One – Council Meetings
 
 ![Final Sault Ste. Marie Screenshot](./saultstemarie.png)
 
@@ -43,7 +33,7 @@ Start on the City of Sault Ste. Marie home page.
 
 ❓ When are the council meetings in June 2025?
 
-## Test Three – Saturday Hours
+## Test Two – Saturday Hours
 
 ![Final Library Screenshot](./library.png)
 
@@ -53,6 +43,16 @@ Start on the Library's home page.
 
 ❓ What are the current Saturday hours for the Library’s North Branch?
 
+## Test Three – Job Search
+
+![Final Welcome to SSM Screenshot](./welcomeToSsm.png)
+
+Start on the Welcome to SSM home page.
+
+<https://welcometossm.com/>
+
+❓ Which local pharmacy currently has a posting for a Registered Pharmacy Technician?
+
 ## Why is Keyboard Accessibility Important?
 
 ![Example Permanent, Temporary, and Situational Scenarios Affecting Touch](./touch.png)
@@ -61,7 +61,7 @@ _Image Credit: [Microsoft Inclusive Design](https://inclusive.microsoft.design/)
 
 Users can rely on keyboards (or other similarly working assistive technologies) for browsing websites for a variety of reasons.
 
-- **Permanent** – Blindness, tremors, amputations.
+- **Permanent** – Blindness, tremors, paralysis, amputations.
 - **Temporary** – Arm injury.
 - **Situational** – Holding a baby.
 
@@ -95,17 +95,18 @@ Note that when other assistive technologies are used at the same time, like scre
 
 ## Test Answers
 
-### ✔️ Test One Answer – Job Search
-
-- <https://welcometossm.com/careers/registered-pharmacy-technician/>
-- Westend Pharmasave.
-
-### ✔️ Test Two Answer – Council Meetings
+### ✔️ Test One Answer – Council Meetings
 
 - <https://saultstemarie.ca/Government/City-Departments/Corporate-Services/City-Clerk/Council-Agendas-and-Minutes.aspx>
 - June 2, June 16, and June 23.
 
-### ✔️ Test Three Answer – Saturday Hours
+### ✔️ Test Two Answer – Saturday Hours
 
 - <https://ssmpl.ca/about-us/hours-locations/>
 - 10am to 5pm.
+
+### ✔️ Test Three Answer – Job Search
+
+- <https://welcometossm.com/careers/registered-pharmacy-technician/>
+- <https://welcometossm.com/careers/registered-pharmacy-technician-2/>
+- Westend Pharmasave or IDA.
