@@ -4,6 +4,12 @@
 
 ![Wizard](wizard.png)
 
+## October 2025
+
+- 🧰 [**City of Sault Ste. Marie Accessibility Toolbox**](https://cityssm.github.io/accessibility-toolbox/)
+  - Resources for making your digital content more accessible, including checklists,
+    how tos, and helpful links.
+
 ## June 2025
 
 - ⌨️ [**National AccessAbility Week Demo - Browsing Websites Using a Keyboard**](2025/06-jun/browsing-websites-using-a-keyboard.md)
